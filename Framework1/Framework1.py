@@ -3,4 +3,3 @@ class Framework1Page():
         self.name = name
     def data(self):
         print(f'calling Framework1.data() from {self.name}')
-        print(f'add a code line in PHD')
