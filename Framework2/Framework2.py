@@ -3,3 +3,4 @@ class Framework2Page():
         self.name = name
     def data(self):
         print(f'calling Framework2.data() from {self.name}')
+        print('absdd')
